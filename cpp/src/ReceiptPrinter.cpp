@@ -1,5 +1,4 @@
 #include "ReceiptPrinter.h"
-#include "Receipt.h"
 
 #include <iomanip>
 #include <sstream>
